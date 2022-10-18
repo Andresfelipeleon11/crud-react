@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import  {Table,Button, Container, Modal, ModalBody, ModalHeader, FormGroup, ModalFooter, Form} from 'reactstrap';
 
 const data=[
-  {id: 1, personaje: "Naruto", anime: "Naruto"},
+  {id: 1, personaje: "Ash", anime: "Pokemon"},
   {id: 2, personaje: "Goku", anime: "Dragon Ball"},
   {id: 3, personaje: "Kenshin Himura", anime: "Rurouni Kenshin"},
   {id: 4, personaje: "Monkey D. Luffy", anime: "One Piece"},
